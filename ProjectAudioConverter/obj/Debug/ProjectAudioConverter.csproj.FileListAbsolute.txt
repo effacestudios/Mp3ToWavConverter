@@ -1,0 +1,20 @@
+D:\Studio\Vs Projects\ProjectAudioConverter\ProjectAudioConverter\bin\Debug\ProjectAudioConverter.exe.config
+D:\Studio\Vs Projects\ProjectAudioConverter\ProjectAudioConverter\bin\Debug\ProjectAudioConverter.exe
+D:\Studio\Vs Projects\ProjectAudioConverter\ProjectAudioConverter\bin\Debug\ProjectAudioConverter.pdb
+D:\Studio\Vs Projects\ProjectAudioConverter\ProjectAudioConverter\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Studio\Vs Projects\ProjectAudioConverter\ProjectAudioConverter\bin\Debug\NAudio.dll
+D:\Studio\Vs Projects\ProjectAudioConverter\ProjectAudioConverter\obj\Debug\ProjectAudioConverter.csprojResolveAssemblyReference.cache
+D:\Studio\Vs Projects\ProjectAudioConverter\ProjectAudioConverter\obj\Debug\ProjectAudioConverter.Form1.resources
+D:\Studio\Vs Projects\ProjectAudioConverter\ProjectAudioConverter\obj\Debug\ProjectAudioConverter.Properties.Resources.resources
+D:\Studio\Vs Projects\ProjectAudioConverter\ProjectAudioConverter\obj\Debug\ProjectAudioConverter.csproj.GenerateResource.Cache
+D:\Studio\Vs Projects\ProjectAudioConverter\ProjectAudioConverter\obj\Debug\ProjectAudioConverter.exe
+D:\Studio\Vs Projects\ProjectAudioConverter\ProjectAudioConverter\obj\Debug\ProjectAudioConverter.pdb
+C:\Main\Softwares\Installed\Projects\ProjectAudioConverter\ProjectAudioConverter\bin\Debug\ProjectAudioConverter.exe.config
+C:\Main\Softwares\Installed\Projects\ProjectAudioConverter\ProjectAudioConverter\bin\Debug\ProjectAudioConverter.exe
+C:\Main\Softwares\Installed\Projects\ProjectAudioConverter\ProjectAudioConverter\bin\Debug\ProjectAudioConverter.pdb
+C:\Main\Softwares\Installed\Projects\ProjectAudioConverter\ProjectAudioConverter\obj\Debug\ProjectAudioConverter.csprojResolveAssemblyReference.cache
+C:\Main\Softwares\Installed\Projects\ProjectAudioConverter\ProjectAudioConverter\obj\Debug\ProjectAudioConverter.Form1.resources
+C:\Main\Softwares\Installed\Projects\ProjectAudioConverter\ProjectAudioConverter\obj\Debug\ProjectAudioConverter.Properties.Resources.resources
+C:\Main\Softwares\Installed\Projects\ProjectAudioConverter\ProjectAudioConverter\obj\Debug\ProjectAudioConverter.csproj.GenerateResource.Cache
+C:\Main\Softwares\Installed\Projects\ProjectAudioConverter\ProjectAudioConverter\obj\Debug\ProjectAudioConverter.exe
+C:\Main\Softwares\Installed\Projects\ProjectAudioConverter\ProjectAudioConverter\obj\Debug\ProjectAudioConverter.pdb
